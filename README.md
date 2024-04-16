@@ -52,7 +52,7 @@ Welcome to our Warehouse Inventory Management System (WHMS), a cutting-edge solu
 - Authentication / Membership
 
 # Live Demo Link
-- Url: [https://whms-lte.csharpasp.net/](https://whms-lte.csharpasp.net/)
+<!-- - Url: [https://whms-lte.csharpasp.net/](https://whms-lte.csharpasp.net/) -->
 - Username: admin@gmail.com
 - Password: 123456
 
@@ -61,10 +61,3 @@ Welcome to our Warehouse Inventory Management System (WHMS), a cutting-edge solu
 # Credit
 - Syncfusion Community License for UI Control. [https://www.syncfusion.com/products/communitylicense](https://www.syncfusion.com/products/communitylicense) 
 - AdminLTE for HTML Admin Template. [https://adminlte.io/](https://adminlte.io/)
-
-# Starred
-Help us grow by give a star.
-
-# Supporter
-This project supported by: INDOTALENT [https://store.indotalent.com](https://store.indotalent.com). Feel free to visit their site and use 50% discount using discount code: **GITHUB50**
-![WHMS PRO](wwwroot/whms-pro-warehouse-inventory-management.png)
