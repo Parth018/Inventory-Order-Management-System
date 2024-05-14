@@ -52,7 +52,7 @@ Welcome to our Warehouse Inventory Management System (WHMS), a cutting-edge solu
 - Authentication / Membership
 
 # Live Demo Link
-<!-- - Url: [https://whms-lte.csharpasp.net/](https://whms-lte.csharpasp.net/) -->
+<!-- - Url: [https://whms-lte.csharpasp.net/] (https://whms-lte.csharpasp.net/) -->
 - Username: admin@gmail.com
 - Password: 123456
 
