@@ -47,7 +47,7 @@ Welcome to our Warehouse Inventory Management System (WHMS), a cutting-edge solu
 - User Profile
 - User List
 - Number Sequence
-- Error Log
+- Error-Log
 - Analytic Log
 - Authentication / Membership
 
